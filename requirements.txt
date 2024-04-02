@@ -1,0 +1,4 @@
+suncalc
+pydantic-extra-types
+global-land-mask
+requests
